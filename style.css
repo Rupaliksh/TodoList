@@ -1,0 +1,29 @@
+html,body{
+    width: 50%;
+    margin: 0 auto;
+}
+.container{
+width: 360px;
+}
+#inputField{
+height: 46px;
+width: 300px;
+border: 1px solid black;
+font-size: 25px;
+vertical-align: middle;
+}
+#add{
+height: 50px; 
+width: 50px;  
+border: 1px solid black;
+vertical-align: middle;
+font-size: 30px;
+}
+.todos{
+    margin-top: 25px;
+}
+.paragraphStyling{
+cursor: pointer;
+margin: 0;
+font-size: 20px;
+}
